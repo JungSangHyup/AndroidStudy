@@ -3,9 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/jsh17/AndroidStudioProjects/AndroidStudy/ReCyclerViewSpinner/app/src/main/res/layout/activity_main.xml" value="0.19250253292806485" />
-        <entry key="..\:/Users/jsh17/AndroidStudioProjects/ReCyclerView/app/src/main/res/layout/activity_main.xml" value="0.264" />
-        <entry key="..\:/Users/jsh17/AndroidStudioProjects/ReCyclerView/app/src/main/res/layout/item_recycler.xml" value="0.264" />
+        <entry key="..\:/Users/jsh17/AndroidStudioProjects/Fragment/app/src/main/res/layout/activity_main.xml" value="0.3848958333333333" />
+        <entry key="..\:/Users/jsh17/AndroidStudioProjects/Fragment/app/src/main/res/layout/fragment_detail.xml" value="0.264" />
+        <entry key="..\:/Users/jsh17/AndroidStudioProjects/Fragment/app/src/main/res/layout/fragment_list.xml" value="0.4" />
       </map>
     </option>
   </component>
