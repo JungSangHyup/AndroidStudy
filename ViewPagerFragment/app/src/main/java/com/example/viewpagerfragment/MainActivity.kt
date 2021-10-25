@@ -13,6 +13,11 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
 
+//        val fragmentList = listOf(FragmentA(), FragmentB(), FragmentC(), FragmentD())
+//        val adapter = FragmentAdapter(this)
+//        adapter.fragmentList = fragmentList
+//        binding.viewPager.adapter = adapter
+
         val textList = listOf("뷰A", "뷰B", "뷰C", "뷰D")
         val customAdapter = CustomPagerAdapter()
         customAdapter.textList = textList

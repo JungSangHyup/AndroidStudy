@@ -3,6 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/jsh17/AndroidStudioProjects/AndroidStudy/ViewPagerFragment/app/src/main/res/layout/activity_main.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/jsh17/AndroidStudioProjects/AndroidStudy/ViewPagerFragment/app/src/main/res/layout/fragment_a.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/jsh17/AndroidStudioProjects/AndroidStudy/ViewPagerFragment/app/src/main/res/layout/fragment_b.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/jsh17/AndroidStudioProjects/AndroidStudy/ViewPagerFragment/app/src/main/res/layout/fragment_c.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/jsh17/AndroidStudioProjects/AndroidStudy/ViewPagerFragment/app/src/main/res/layout/fragment_d.xml" value="0.4" />
+        <entry key="..\:/Users/jsh17/AndroidStudioProjects/AndroidStudy/ViewPagerFragment/app/src/main/res/layout/item_viewpager.xml" value="0.1598731884057971" />
         <entry key="..\:/Users/jsh17/AndroidStudioProjects/ViewPagerFragment/app/src/main/res/layout/activity_main.xml" value="0.33695652173913043" />
         <entry key="..\:/Users/jsh17/AndroidStudioProjects/ViewPagerFragment/app/src/main/res/layout/fragment_a.xml" value="0.33695652173913043" />
         <entry key="..\:/Users/jsh17/AndroidStudioProjects/ViewPagerFragment/app/src/main/res/layout/fragment_b.xml" value="0.33695652173913043" />
