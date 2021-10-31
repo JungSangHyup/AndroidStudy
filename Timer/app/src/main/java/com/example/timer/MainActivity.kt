@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
 
         binding.buttonStart.setOnClickListener {
             started = true
-            thread(start = true){
+            var timer = thread {
                 while(started){
                     Thread.sleep(1000)
                     if(started){
@@ -36,6 +36,7 @@ class MainActivity : AppCompatActivity() {
                     }
                 }
             }
+            timer.start()
             binding.buttonStop.setOnClickListener {
                 if(started){
                     started = false
