@@ -28,7 +28,7 @@ class CustomPagerAdapter : RecyclerView.Adapter<Holder>(){
 
 class Holder(val binding: ItemViewpagerBinding) : RecyclerView.ViewHolder(binding.root) {
     fun setText(text:String) {
-        binding.textView.text = text
+        binding.
     }
     fun setImg(){
         binding.imageCustomView.setImageResource(R.drawable.img1);

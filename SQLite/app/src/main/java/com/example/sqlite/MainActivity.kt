@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
 
     val binding by lazy { ActivityMainBinding.inflate(layoutInflater) }
 
-    val helper = SqliteHelper(this, "memo", 1)
+    val helper by lazy { SqliteHelper(this, "memo", 1) }
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
